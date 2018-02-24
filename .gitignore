@@ -1,0 +1,6 @@
+__pycache__
+*.png
+*.ipynb
+.ipynb_checkpoints
+data/atsp_data
+data/tsp_data
